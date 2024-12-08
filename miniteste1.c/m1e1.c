@@ -1,3 +1,8 @@
+/*Desde 2006 que a China tem liderado como o maior emissor mundial de dióxido de carbono (CO2).
+E Portugal? Como se compara o nosso país com a China?
+Desenvolve um programa que efetua a análise das emissões de CO2, em Portugal e na China, entre
+2000 e 2020. Para um dado ano, o programa deve ler 2 valores relativos a cada país:*/
+
 #include <stdio.h>
 
 int main(){
